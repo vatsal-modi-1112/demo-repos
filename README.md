@@ -1,4 +1,4 @@
 # demo-repos
 This is my first repositary.
 <br>
-Author- Vatsal Modi
+Author- Vatsal Modi (-vatsal)
